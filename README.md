@@ -1,2 +1,3 @@
-# special-barnacleJust an example repo
+# special-barnacle
+Just an example repo
 
